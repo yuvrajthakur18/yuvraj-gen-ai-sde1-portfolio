@@ -1,0 +1,148 @@
+[
+  {
+    "title": "AI Interview Assistant Platform",
+    "projectType": "Company Project",
+    "keywords": "Generative AI • LangChain • Speech Models • Full Stack",
+    "description": "Built an AI-powered Interview Assistant to generate dynamic questions from resume and JD, conduct voice-based interviews using speech-to-text and text-to-speech models, and provide detailed candidate performance analytics for hiring.",
+    "status": "Completed",
+    "year": 2024,
+    "link": "#",
+    "tags": [
+      "Generative AI",
+      "LangChain",
+      "Speech Models",
+      "Next.js",
+      "Spring Boot",
+      "Interview AI"
+    ]
+  },
+  {
+    "title": "LeadLens AI Generation Platform",
+    "projectType": "Personal Project",
+    "keywords": "Generative AI • Web Scraping • Email Automation • NLP",
+    "description": "Developed an AI-driven platform to scrape prospect data, filter and structure it, and generate personalized cold emails using NLP models to automate marketing workflows and boost conversion rates for businesses effectively.",
+    "status": "Completed",
+    "year": 2024,
+    "link": "#",
+    "tags": [
+      "Generative AI",
+      "Web Scraping",
+      "Email Automation",
+      "NLP",
+      "Lead Generation",
+      "Marketing"
+    ]
+  },
+  {
+    "title": "Centralized Content Hub System ",
+    "projectType": "Company Project",
+    "keywords": "PHP • API Development • Enterprise CMS • Workflows",
+    "description": "Built a centralized CMS to streamline global content workflows across business units, integrating robust REST APIs in PHP for seamless content creation, approval, and publishing processes in enterprise environments.",
+    "status": "Completed",
+    "year": 2024,
+    "link": "#",
+    "tags": [
+      "CMS",
+      "PHP",
+      "REST APIs",
+      "Enterprise",
+      "Content Management",
+      "Workflow Automation"
+    ]
+  },
+  {
+    "title": "Enterprise Procurement Platform",
+    "projectType": "Company Project",
+    "keywords": "Spring Boot • Backend • Workflow Automation • APIs",
+    "description": "Developed backend for an enterprise procurement platform, optimizing supplier management and automating approval workflows using Spring Boot and RESTful APIs to ensure scalable and efficient operations for businesses.",
+    "status": "Completed",
+    "year": 2023,
+    "link": "#",
+    "tags": [
+      "Spring Boot",
+      "Backend",
+      "Workflow Automation",
+      "REST APIs",
+      "Procurement",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "FastAPI AWS Microservices Arch ",
+    "projectType": "Personal Project",
+    "keywords": "FastAPI • Docker • AWS • CI/CD • Microservices",
+    "description": "Built a microservices architecture with FastAPI, Docker, and AWS EC2, integrating AI pipelines like RAG and LangChain, deployed via CI/CD with GitHub Actions for modular, scalable, and efficient system operations.",
+    "status": "Ongoing",
+    "year": 2025,
+    "link": "#",
+    "tags": [
+      "FastAPI",
+      "AWS",
+      "Docker",
+      "Microservices",
+      "CI/CD",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "title": "RAG Vector Database Pipeline   ",
+    "projectType": "Personal Project",
+    "keywords": "RAG • LangChain • Vector DB • LLM • AI Pipeline",
+    "description": "Developing a RAG pipeline linking LLMs with vector databases for enhanced contextual retrieval and response generation, focusing on accuracy, scalability, and relevance for enterprise-grade AI system applications.",
+    "status": "Completed",
+    "year": 2025,
+    "link": "#",
+    "tags": ["RAG", "LangChain", "Vector DB", "LLM", "Retrieval", "AI Pipeline"]
+  },
+  {
+    "title": "Agentic AI System CrewAI       ",
+    "projectType": "Personal Project",
+    "keywords": "Multi-Agent Systems • AI Orchestration • Autonomous AI",
+    "description": "Building an Agentic AI system with CrewAI, enabling specialized agents like researcher, coder, and reviewer to collaborate autonomously for complex AI workflows and intelligent task orchestration in systems.",
+    "status": "Scoping",
+    "year": 2025,
+    "link": "#",
+    "tags": [
+      "Agentic AI",
+      "CrewAI",
+      "Multi-Agent",
+      "Autonomous AI",
+      "Orchestration",
+      "Collaboration"
+    ]
+  },
+  {
+    "title": "AI Recruitment Automation SaaS ",
+    "projectType": "Personal Project",
+    "keywords": "SaaS • AI • Recruitment Tech • Automation • Integration",
+    "description": "Creating a SaaS product to automate recruitment with AI-driven job description generation, candidate scoring, interview assistance, and evaluation metrics, integrating with Slack and Teams for seamless HR workflows.",
+    "status": "Completed",
+    "year": 2025,
+    "link": "#",
+    "tags": [
+      "SaaS",
+      "Recruitment",
+      "AI Automation",
+      "HR Tech",
+      "Integration",
+      "Workflow"
+    ]
+  },
+  {
+    "title": "Website Redesign SEO Associates",
+    "projectType": "Freelance Project",
+    "keywords": "Freelance • SEO • AI Chatbot • Digital Growth • Lead Gen",
+    "description": "Redesigned J and A Associates' website, migrating from WordPress to a high-performance stack, enhancing SEO, design, and lead generation with AI chatbot integration to drive digital growth for the law firm.",
+    "status": "Scoping",
+    "year": 2025,
+    "link": "#",
+    "tags": [
+      "Freelance",
+      "SEO",
+      "Web Design",
+      "AI Chatbot",
+      "Lead Generation",
+      "WordPress"
+    ]
+  }
+]
